@@ -1,6 +1,5 @@
 # password generator hard to break
 import random
-from numpy import number
 
 from pikepdf import PasswordError
 lower_letters ="azertyuiopqsdfghjklmwxcvbn"
